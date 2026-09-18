@@ -1,0 +1,308 @@
+{
+  "Amethyst": {
+    "title": "Amethyst - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Rubble Creek Sands - 7.0317% (~1 in 14)\nAzuralite Oasis - 4.6223% (~1 in 22)\nCrystal Cavern River - 4.2311% (~1 in 24)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Amethyst"
+  },
+  "Blue Ice": {
+    "title": "Blue Ice - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Frozen Peak - 51.5010% (~1 in 2)\nFrostbite River - 51.5010% (~1 in 2)\nFrostbite Waterfall - 51.5010% (~1 in 2)\nNorth Pole - 27.9264% (~1 in 4)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Blue_Ice"
+  },
+  "Copper": {
+    "title": "Copper - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Azuralite Oasis - 36.9786% (~1 in 3)\nCrystal Cavern River - 33.8491% (~1 in 3)\nAbyssal Depths - 24.2347% (~1 in 4)\nDeeproot Spring - 22.5920% (~1 in 4)\nFungal Marsh - 27.1237% (~1 in 4)\nOvergrown Grotto - 23.3408% (~1 in 4)\nRotwood Swamp - 27.1237% (~1 in 4)\nHaunted Creek - 21.6130% (~1 in 5)\nInfernal Heart - 22.1047% (~1 in 5)\nVolcanic Springs - 19.1974% (~1 in 5)\nThe Magma Furnace - 17.0730% (~1 in 6)\nVolcanic Sands - 17.0732% (~1 in 6)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Copper"
+  },
+  "Gold": {
+    "title": "Gold - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Rubble Creek Sands - 70.3167% (~1 in 2)\nEnchanted Ruins - 58.3704% (~1 in 2)\nFortune River - 57.2323% (~1 in 2)\nFortune River Delta - 54.7160% (~1 in 2)\nMeteor Falls - 54.2536% (~1 in 2)\nStarfall River - 54.2536% (~1 in 2)\nTimelocked Sanctuary - 54.2526% (~1 in 2)\nRotwood Swamp - 54.2473% (~1 in 2)\nFungal Marsh - 54.2473% (~1 in 2)\nAstral Caverns - 52.1996% (~1 in 2)\nRubble Creek Deposits - 52.1295% (~1 in 2)\nLifespring Oasis – 51.6735% (~1 in 2)\nMystic Floodplains – 51.6446% (~1 in 2)\nSandstone Stream – 51.7301% (~1 in 2)\nAbyssal Depths - 48.4694% (~1 in 2)\nOvergrown Grotto - 46.6816% (~1 in 2)\nDeeproot Spring - 45.1840% (~1 in 2)\nHaunted Creek - 43.2261% (~1 in 2)\nCrystal Cavern River - 42.3118% (~1 in 2)\nVolcanic Springs - 38.3949% (~1 in 3)\nAzuralite Oasis - 36.9786% (~1 in 3)\nVolcanic Sands - 34.1464% (~1 in 3)\nThe Magma Furnace - 34.1459% (~1 in 3)\nNorth Pole - 27.9264% (~1 in 4)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Gold"
+  },
+  "Obsidian": {
+    "title": "Obsidian - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Infernal Heart - 73.6822% (~1 in 2)\nThe Magma Furnace - 45.5279% (~1 in 2)\nVolcanic Sands - 45.5285% (~1 in 2)\nVolcanic Springs - 38.3949% (~1 in 3)\nSandstone Stream – 25.8651% (~1 in 4)\nLifespring Oasis – 25.8368% (~1 in 4)\nMystic Floodplains – 25.8223% (~1 in 4)\nWindswept Beach - 24.0936% (~1 in 4)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Obsidian"
+  },
+  "Pearl": {
+    "title": "Pearl - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Windswept Beach - 18.0702% (~1 in 6)\nSunset Beach - 16.9993% (~1 in 6)\nSeashell Beach - 16.9983% (~1 in 6)\nFortune River Delta - 10.9432% (~1 in 9)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Pearl"
+  },
+  "Platinum": {
+    "title": "Platinum - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Fortune River - 28.6161% (~1 in 3)\nRubble Creek Deposits - 26.0648% (~1 in 4)\nRubble Creek Sands - 18.7511% (~1 in 5)\nLifespring Oasis – 12.9184% (~1 in 8)\nMystic Floodplains – 12.9112% (~1 in 8)\nSandstone Stream – 12.9325% (~1 in 8)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Platinum"
+  },
+  "Pyrite": {
+    "title": "Pyrite - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Starfall River - 54.2535% (~1 in 2)\nMeteor Falls - 54.2535% (~1 in 2)\nRubble Creek Deposits - 15.6389% (~1 in 6)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Pyrite"
+  },
+  "Seashell": {
+    "title": "Seashell - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Seashell Beach - 45.3288% (~1 in 2)\nSunset Beach – 45.3314% (~1 in 2)\nWindswept Beach - 48.1872% (~1 in 2)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Seashell"
+  },
+  "Silver": {
+    "title": "Silver - Official Prospecting! Wiki",
+    "rarity": "Common",
+    "chances": "Enchanted Ruins - 29.1852% (~1 in 3)\nFrostbite Waterfall - 32.1881% (~1 in 3)\nFrozen Peak - 32.1882% (~1 in 3)\nFrostbite River - 32.1882% (~1 in 3)\nSunset Beach – 28.3321% (~1 in 4)\nSeashell Beach - 28.3305% (~1 in 4)\nNorth Pole - 27.9264% (~1 in 4)\nFortune River Delta - 27.3580% (~1 in 4)\nTimelocked Sanctuary - 27.1263% (~1 in 4)\nAstral Caverns - 25.9984% (~1 in 4)\nAbyssal Depths - 24.2347% (~1 in 4)\nOvergrown Grotto - 23.3408% (~1 in 4)\nDeeproot Spring - 22.5920% (~1 in 4)\nHaunted Creek - 21.6130% (~1 in 5)\nAzuralite Oasis - 18.4893% (~1 in 5)\nCrystal Cavern River - 16.9246% (~1 in 6)\nThe Void (if in loot pool) - 18.1132% (~1 in 6)",
+    "url": "https://prospecting.miraheze.org/wiki/Silver"
+  },
+  "Coral": {
+    "title": "Coral - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Windswept Beach - 6.0234% (~1 in 17)\nSunset Beach - 5.6664% (~1 in 18)\nSeashell Beach - 5.6661% (~1 in 18)\nFortune River Delta - 3.2830% (~1 in 30)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Coral"
+  },
+  "Neodymium": {
+    "title": "Neodymium - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Sunset Beach - 2.2666% (~1 in 44)\nSeashell Beach - 2.2664% (~1 in 44)\nEnchanted Ruins - 1.7511% (~1 in 57)\nFortune River Delta - 1.6415% (~1 in 61)\nAbyssal Depths - 1.4541% (~1 in 68)\nOvergrown Grotto - 1.4004% (~1 in 71)\nAzuralite Oasis - 1.3867% (~1 in 72)\nDeeproot Spring - 1.3555% (~1 in 74)\nCrystal Cavern River - 1.2693% (~1 in 79)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Neodymium"
+  },
+  "Sapphire": {
+    "title": "Sapphire - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Starfall River - 4.3403% (~1 in 23)\nMeteor Falls - 4.3403% (~1 in 23)\nAstral Caverns - 4.1597% (~1 in 24)\nNorth Pole - 3.3512% (~1 in 30)\nFrozen Peak - 1.9313% (~1 in 52)\nFrostbite River - 1.9313% (1~ in 52)\nFrostbite Waterfall - 1.9313% (~1 in 52)\nFortune River - 0.5723% (~1 in 175)\nRubble Creek Deposits - 0.5213% (~1 in 192)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Sapphire"
+  },
+  "Smoky Quartz": {
+    "title": "Smoky Quartz - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Timelocked Sanctuary - 4.3402% (~1 in 23)\nRotwood Swamp - 4.3397% (~1 in 23)\nFungal Marsh - 4.3398% (~1 in 23)\nHaunted Creek - 3.4581% (~1 in 29)\nEnchanted Ruins - 1.1674% (~1 in 86)\nSeashell Beach - 1.1332% (~1 in 88)\nSunset Beach - 1.1333% (~1 in 88)\nFortune River Delta - 1.0943% (~1 in 91)\nAbyssal Depths - 0.9694% (~1 in 103)\nOvergrown Grotto - 0.9336% (~1 in 107)\nAzuralite Oasis - 0.9245% (~1 in 108)\nDeeproot Spring - 0.9037% (~1 in 111)\nCrystal Cavern River - 0.8462% (~1 in 118)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Smoky_Quartz"
+  },
+  "Titanium": {
+    "title": "Titanium - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Frozen Peak - 12.8753% (~1 in 8)\nFrostbite River - 12.8753% (~1 in 8)\nFrostbite Waterfall - 12.8753% (~1 in 8)\nFortune River - 11.4465% (~1 in 9)\nNorth Pole - 11.1706% (~1 in 9)\nFungal Marsh - 10.8495% (~1 in 9)\nRotwood Swamp - 10.8495% (~1 in 9)\nHaunted Creek - 8.6452% (~1 in 12)\nRubble Creek Deposits - 4.1704% (~1 in 24)\nRubble Creek Sands - 2.3439% (~1 in 43)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Titanium"
+  },
+  "Topaz": {
+    "title": "Topaz - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Timelocked Sanctuary - 10.8505% (~1 in 9)\nLifespring Oasis – 5.1674% (~1 in 19)\nMystic Floodplains – 5.1645% (~1 in 19)\nSandstone Stream – 5.1730% (~1 in 19)\nInfernal Heart - 2.2105% (~1 in 45)\nVolcanic Springs - 2.194% (~1 in 46)\nWindswept Beach - 1.8070% (~1 in 55)\nThe Magma Furnace - 1.7073% (~1 in 59)\nVolcanic Sands - 1.7073% (~1 in 59)\nFortune River - 1.4308% (~1 in 70)\nRubble Creek Sands - 1.1719% (~1 in 85)\nRubble Creek Deposits - 1.0426% (~1 in 96)\nFortune River Delta - 0.5472% (~1 in 183)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Topaz"
+  },
+  "Zircon": {
+    "title": "Zircon - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Infernal Heart - 1.4736% (~1 in 68)\nVolcanic Springs - 1.3712% (~1 in 73)\nThe Magma Furnace - 1.1382% (~1 in 88)\nVolcanic Sands - 1.1382% (~1 in 88)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Zircon"
+  },
+  "Meteoric Iron": {
+    "title": "Meteoric Iron - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Astral Caverns - 4.1597% (~1 in 24)\nVolcanic Springs - 0.2468% (~1 in 405)\nWindswept Beach - 0.2409% (~1 in 415)\nVolcanic Sands - 0.2276% (~1 in 439)\nRubble Creek Deposits - 0.06256% (~1 in 1,599)\nFortune River - 0.05723% (~1 in 1747)\nRubble Creek Sands - 0.03281% (~1 in 3,047)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Meteoric_Iron"
+  },
+  "Peridot": {
+    "title": "Peridot - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Sandstone Stream – 0.5173% (~1 in 193)\nLifespring Oasis – 0.5167% (~1 in 194)\nMystic Floodplains – 0.5164% (~1 in 194)\nInfernal Heart - 0.07368% (~1 in 1,357)\nWindswept Beach - 0.06023% (~1 in 1,660)\nThe Magma Furnace - 0.05690% (~1 in 1,757)\nVolcanic Sands - 0.05691% (~1 in 1,757)\nVolcanic Springs - 0.05485% (~1 in 1,823)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Peridot"
+  },
+  "Ruby": {
+    "title": "Ruby - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Lifespring Oasis – 1.0335% (~1 in 97)\nMystic Floodplains – 1.0329% (~1 in 97)\nSandstone Stream – 1.0346% (~1 in 97)\nRubble Creek Sands - 0.2344% (~1 in 427)\nFortune River - 0.2289% (~1 in 437)\nRubble Creek Deposits - 0.2085% (~1 in 480)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Ruby"
+  },
+  "Silver Clamshell": {
+    "title": "Silver Clamshell - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Windswept Beach - 0.1808% (~1 in 553)\nSeashell Beach - 0.1700% (~1 in 588)\nSunset Beach - 0.1699% (~1 in 588)\nFortune River Delta - 0.1094% (~1 in 914)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Silver_Clamshell"
+  },
+  "Ashvein": {
+    "title": "Ashvein - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Seashell Beach - 0.01133% (~1 in 8,824)\nSunset Beach - 0.01133% (~1 in 8,824)\nAzuralite Oasis - 0.009245% (~1 in 10,817)\nCrystal Cavern River - 0.008462% (~1 in 11,817)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Ashvein"
+  },
+  "Emerald": {
+    "title": "Emerald - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Fortune River - 0.004579% (~1 in 21,841)\nTimelocked Sanctuary - 0.004340% (~1 in 23,040)\nFungal Marsh - 0.004340% (~1 in 23,043)\nRotwood Swamp - 0.004340% (~1 in 23,043)\nRubble Creek Deposits - 0.004170% (~1 in 23,979)\nEnchanted Ruins - 0.003502% (~1 in 28,553)\nHaunted Creek - 0.003458% (~1 in 28,918)\nAbyssal Depths - 0.002908% (~1 in 34,386)\nOvergrown Grotto - 0.002801% (~1 in 35,703)\nAzuralite Oasis - 0.002773% (~1 in 36,057)\nDeeproot Spring - 0.002711% (~1 in 36,886)\nCrystal Cavern River - 0.002539% (~1 in 39,390)\nRubble Creek Sands - 0.002344% (~1 in 42,664)\nFrostbite River - 0.001931% (~1 in 51,779)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Emerald"
+  },
+  "Golden Pearl": {
+    "title": "Golden Pearl - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Seashell Beach - 0.02266% (~1 in 4,412)\nSunset Beach - 0.02267% (~1 in 4,412)\nFortune River Delta - 0.01641% (~1 in 6,092)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Golden_Pearl"
+  },
+  "Moonstone": {
+    "title": "Moonstone - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Sunset Beach - 0.005666% (~1 in 17,648)\nSeashell Beach - 0.005666% (~1 in 17,649)\nFortune River Delta - 0.005472% (~1 in 18,276)\nMeteor Falls - 0.002713% (~1 in 36,864)\nStarfall River - 0.002713% (~1 in 36,864)\nAstral Caverns - 0.002600% (~1 in 38,464)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Moonstone"
+  },
+  "Opal": {
+    "title": "Opal - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Starfall River - 0.05425% (~1 in 1,843)\nMeteor Falls - 0.05425% (~1 in 1,843)\nAstral Caverns - 0.05200% (~1 in 1,923)\nFortune River - 0.002289% (~1 in 43,682)\nSunset Beach - 0.002267% (~1 in 44,120)\nSeashell Beach - 0.002266% (~1 in 44,122)\nInfernal Heart - 0.002210% (~1 in 45,239)\nWindswept Beach - 0.001807% (~1 in 55,340)\nVolcanic Sands - 0.001707% (~1 in 58,571)\nThe Magma Furnace - 0.001707% (~1 in 58,572)\nVolcanic Springs - 0.001645% (~1 in 60,772)\nRubble Creek Deposits - 0.001564% (~1 in 63,943)\nRubble Creek Sands - 0.0009376% (~1 in 106,660)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Opal"
+  },
+  "Osmium": {
+    "title": "Osmium - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Sandstone Stream – 0.05173% (~1 in 1,933)\nTimelocked Sanctuary - 0.002713% (~1 in 36,865)\nRotwood Swamp - 0.002712% (~1 in 36,868)\nFungal Marsh - 0.002712% (~1 in 36,868)\nInfernal Heart - 0.002210% (~1 in 45,239)\nWindswept Beach - 0.001807% (~1 in 55,340)\nVolcanic Sands - 0.001707% (~1 in 58,571)\nThe Magma Furnace - 0.001707% (~1 in 58,572)\nVolcanic Springs - 0.001645% (~1 in 60,772)\nFortune River - 0.001431% (~1 in 69,891)\nAzuralite Oasis - 0.001386% (~1 in 72,114)\nCrystal Cavern River - 0.001269% (~1 in 78,781)\nRubble Creek Deposits - 0.001043% (~1 in 95,915)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Osmium"
+  },
+  "Diamond": {
+    "title": "Diamond - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Sunset Beach - 0.0005666% (~1 in 176,478)\nFortune River Delta - 0.0005472% (~1 in 182,762)\nTimelocked Sanctuary - 0.0005425% (~1 in 184,323)\nFungal Marsh - 0.0005425% (~1 in 184,341)\nRotwood Swamp - 0.0005425% (~1 in 184,341)\nFrostbite River - 0.0005150% (~1 in 194,171)\nFrostbite Waterfall - 0.0005150% (~1 in 194,171)\nFrozen Peak - 0.0005150% (~1 in 194,171)\nNorth Pole - 0.0004468% (~1 in 223,802)\nHaunted Creek - 0.0004323% (~1 in 231,342)\nMeteor Falls - 0.0002713% (~1 in 368,639)\nFortune River - 0.0002289% (~1 in 436,817)\nRubble Creek Deposits - 0.0002085% (~1 in 479,574)\nRubble Creek Sands - 0.0001406% (~1 in 711,068)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Diamond"
+  },
+  "Dragon Bone": {
+    "title": "Dragon Bone - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Infernal Heart - 0.001474% (~1 in 67,859)\nThe Magma Furnace - 0.0008536% (~1 in 117,145)\nWindswept Beach - 0.0004819% (~1 in 207524)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Dragon_Bone"
+  },
+  "Fire Opal": {
+    "title": "Fire Opal - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Volcanic Springs - 0.0004388% (~1 in 227,895)\nInfernal Heart - 0.0002947% (~1 in 339,295)\nWindswept Beach - 0.0001506% (~1 in 664,076)\nVolcanic Sands - 0.0001423% (~1 in 702,856)\nThe Magma Furnace - 0.0001423% (~1 in 702,866)\nSandstone Stream – 0.00005173% (~1 in 1,933,110)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Fire_Opal"
+  },
+  "Rose Gold": {
+    "title": "Rose Gold - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Enchanted Ruins - 0.001459% (~1 in 68,528)\nWindswept Beach - 0.0009035% (~1 in 110,679)\nFortune River - 0.0005723% (~1 in 174,727)\nVolcanic Sands - 0.0005691% (~1 in 175,714)\nThe Magma Furnace - 0.0005691% (~1 in 175,716)\nVolcanic Springs - 0.0005485% (~1 in 182,316)\nRubble Creek Deposits - 0.0005213% (~1 in 191,830)\nRubble Creek Sands - 0.0004688% (~1 in 213,321)\nInfernal Heart - 0.0004420% (~1 in 226,197)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Rose_Gold"
+  },
+  "Starshine": {
+    "title": "Starshine - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Sandstone Stream – 0.0002587% (~1 in 386,622)\nLifespring Oasis – 0.0002584% (~1 in 387,045)\nMystic Floodplains – 0.0002582% (~1 in 387,262)\nAzuralite Oasis - 0.00009245% (~1 in 1,081,707)\nCrystal Cavern River - 0.00008462% (~1 in 1,181,714)\nEnchanted Ruins - 0.00005837% (~1 in 1,713,196)\nTimelocked Sanctuary - 0.00005425% (~1 in 1,843,229)\nAbyssal Depths - 0.00004846% (~1 in 2,063,159)\nOvergrown Grotto - 0.00004668% (~1 in 2,142,171)\nDeeproot Spring - 0.00004518% (~1 in 2,213,533)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Starshine"
+  },
+  "Cinnabar": {
+    "title": "Cinnabar - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Infernal Heart - 0.0002210% (~1 in 452,393)\nVolcanic Sands - 0.0001138% (~1 in 878,570)\nThe Magma Furnace - 0.0001138% (~1 in 878,582)\nVolcanic Springs - 0.0001097% (~1 in 911,580)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Cinnabar"
+  },
+  "Volcanic Key": {
+    "title": "Volcanic Key - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Infernal Heart - 0.001473% (1 in 67,859)\nThe Magma Furnace - 0.0005691% (~1 in 175,716)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Volcanic_Key"
+  },
+  "Flarebloom": {
+    "title": "Flarebloom - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Infernal Heart - 0.00001105% (~1 in 9,047,864)\nThe Magma Furnace - 0.000008536% (~1 in 11,714,451)\nVolcanic Sands - 0.000002788% (~1 in 35,862,342)\nVolcanic Springs - 0.000002742% (~1 in 36,463,190)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Flarebloom"
+  },
+  "Inferlume": {
+    "title": "Inferlume - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Infernal Heart - 0.00001105% (~1 in 9,047,865)\nWindswept Beach - 0.000009035% (~1 in 11,067,939)\nSunset Beach - 0.000008500% (~1 in 11,765,217)\nSeashell Beach - 0.000008499% (~1 in 11,765,884)\nVolcanic Sands - 0.000007967% (~1 in 12,551,001)\nVolcanic Springs - 0.000007679% (~1 in 13,022,568)\nAzuralite Oasis - 0.000007396% (~1 in 13,521,337)\nCrystal Cavern River - 0.000006770% (~1 in 14,771,421)\nSandstone Stream - 0.000001655% (~1 in 60,409,689)\nLifespring Oasis - 0.000001653% (~1 in 60,509,570)\nMystic Floodplains - 0.000001653% (~1 in 60,509,689)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Inferlume"
+  },
+  "Painite": {
+    "title": "Painite - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Sunset Beach - 0.00002267% (~1 in 4,411,956)\nSeashell Beach - 0.00002266% (~1 in 4,412,206)\nInfernal Heart - 0.00002210% (~1 in 4,523,932)\nFortune River Delta - 0.00002189% (~1 in 4,569,051)\nFortune River - 0.00001717% (~1 in 5,824,221)\nVolcanic Springs - 0.00001645% (~1 in 6,077,198)\nHaunted Creek - 0.000003458% (~1 in 28,917,727)\nAbyssal Depths - 0.000002908% (~1 in 34,385,985)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Painite"
+  },
+  "Pink Diamond": {
+    "title": "Pink Diamond - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Fortune River Delta - 0.00004377% (~1 in 2,284,525)\nFortune River - 0.00002862% (~1 in 3,494,532)\nVolcanic Sands - 0.00002276% (~1 in 4,392,850)\nRubble Creek Deposits - 0.00002085% (~1 in 4,795,745)\nRubble Creek Sands - 0.00001875% (~1 in 5,333,014)\nNorth Pole - 0.00001117% (~1 in 8,952,091)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Pink_Diamond"
+  },
+  "Volcanic Core": {
+    "title": "Volcanic Core - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Infernal Heart - 0.000007368% (~1 in 13,571,797)\nThe Magma Furnace - 0.000004553% (~1 in 21,964,559)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Volcanic_Core"
+  },
+  "Dinosaur Skull": {
+    "title": "Dinosaur Skull - Official Prospecting! Wiki",
+    "rarity": "Exotic",
+    "chances": "Infernal Heart – 0.000001842% (1 in 54,287,189)",
+    "url": "https://prospecting.miraheze.org/wiki/Dinosaur_Skull"
+  },
+  "Voidstone": {
+    "title": "Voidstone - Official Prospecting! Wiki",
+    "rarity": "Exotic",
+    "chances": "The Void - 0.0000007245% (~1 in 138,021,012)",
+    "url": "https://prospecting.miraheze.org/wiki/Voidstone"
+  },
+  "Radiant Gold": {
+    "title": "Radiant Gold - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Abyssal Depths - 0.000001454% (~1 in 68,771,970)\nHaunted Creek - 0.000001297% (~1 in 77,113,939)\nEnchanted Ruins - 0.000001167% (~1 in 85,659,809)\nTimelocked Sanctuary - 0.000001085% (~1 in 92,161,458)\nDeeproot Spring - 0.0000009037% (~1 in 110,658,558)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Radiant_Gold"
+  },
+  "Sunstone": {
+    "title": "Sunstone - Official Prospecting! Wiki",
+    "rarity": "Mythic",
+    "chances": "Meteor Falls - 0.0000005425% (~1 in 184,319,616)\nStarfall River - 0.0000005425% (~1 in 184,319,617)\nAstral Caverns - 0.0000005200% (~1 in 192,319,627)\nThe Void (if in loot pool) - 0.000002536% (~1 in 39,434,575)",
+    "url": "https://prospecting.miraheze.org/wiki/Sunstone"
+  },
+  "Palladium": {
+    "title": "Palladium - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Frostbite River - 0.0002575% (~1 in 388,342)\nAzuralite Oasis - 0.00009245% (~1 in 1,081,707)\nCrystal Cavern River - 0.00008462% (~1 in 1,181,714)\nFortune River Delta - 0.00008207% (~1 in 1,218,414)\nStarfall River - 0.00005425% (~1 in 1,843,196)\nAstral Caverns - 0.00005200% (~1 in 1,923,196)\nFortune River - 0.00002289% (~1 in 4,368,166)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Palladium"
+  },
+  "Tourmaline": {
+    "title": "Tourmaline - Official Prospecting! Wiki",
+    "rarity": "Legendary",
+    "chances": "Frostbite Waterfall - 0.0001609% (~1 in 621,347)\nFrostbite River - 0.0001609% (~1 in 621,347)\nFrozen Peak - 0.0001609% (~1 in 621,347)\nThe Void (if in loot pool) - 0.0001811% (~1 in 552,084)",
+    "url": "https://prospecting.miraheze.org/wiki/Tourmaline"
+  },
+  "Pyronium": {
+    "title": "Pyronium - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Infernal Heart - 0.004421% (~1 in 22,620)\nVolcanic Springs - 0.003839% (~1 in 26,045)\nThe Magma Furnace - 0.003415% (~1 in 29,286)\nVolcanic Sands - 0.003415% (~1 in 29,286)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Pyronium"
+  },
+  "Meteoric Gold": {
+    "title": "Meteoric Gold - Official Prospecting! Wiki",
+    "rarity": "Epic",
+    "chances": "Starfall River - 0.00001085% (~1 in 92,160)\nAstral Caverns - 0.00001040% (~1 in 96,160)\nSandstone Stream – 0.001035% (~1 in 96,656)\nLifespring Oasis – 0.001033% (~1 in 96,761)\nMystic Floodplains – 0.001033% (~1 in 96,816)\nThe Void (if in loot pool) - 0.003623% (~1 in 27,604)",
+    "url": "https://prospecting.miraheze.org/wiki/Meteoric_Gold"
+  },
+  "Pyrelith": {
+    "title": "Pyrelith - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Infernal Heart - 0.2947% (~1 in 339)\nThe Magma Furnace - 0.2276% (~1 in 439)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Pyrelith"
+  },
+  "Amber": {
+    "title": "Amber - Official Prospecting! Wiki",
+    "rarity": "Rare",
+    "chances": "Enchanted Ruins - 0.05837% (~1 in 1,713)\nAbyssal Depths - 0.04847% (~1 in 2,063)\nDeeproot Spring - 0.04518% (~1 in 2,213)\nThe Void (if in loot pool) - 0.09057% (~1 in 1,104)",
+    "url": "https://prospecting.miraheze.org/wiki/Amber"
+  },
+  "Electrum": {
+    "title": "Electrum - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Starfall River - 2.7127% (~1 in 37)\nMeteor Falls - 2.7127% (~1 in 37)\nTimelocked Sanctuary - 2.7127% (~1 in 37)\nFungal Marsh - 2.7124% (~1 in 37)\nRotwood Swamp - 2.7123% (~1 in 37)\nAstral Caverns - 2.5998% (~1 in 38)\nLifespring Oasis – 2.5837% (~1 in 39)\nMystic Floodplains – 2.5822% (~1 in 39)\nSandstone Stream – 2.5865% (~1 in 39)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Electrum"
+  },
+  "Glowberry": {
+    "title": "Glowberry - Official Prospecting! Wiki",
+    "rarity": "Uncommon",
+    "chances": "Enchanted Ruins - 8.7556% (~1 in 11)\nOvergrown Grotto - 1.4002% (~1 in 71)\nDeeproot Spring - 1.3553% (~1 in 74)\nThe Void (if in loot pool) - 1.8113% (~1 in 55)",
+    "url": "https://prospecting.miraheze.org/wiki/Glowberry"
+  }
+}
